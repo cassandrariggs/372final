@@ -1,0 +1,13 @@
+# 372final
+state = State of residence
+ppnumb = Number of Planned Parenthoods per state
+pop = 2018 Population of state
+pop1mil = The population of the state divided by 1 million
+ppprop = The number of Planned Parenthood clinics per 1 million people
+hiv = 2018 HIV rates per 100,000 people 
+std = 2018 STD rates per 100,000 people
+sexed = Does the state require sex education in schools
+hived = Does the state require hiv education in schools
+teenbirth = 2018 teen bith rates per 100,000 people
+matmort = 2018 maternal mortality per 100,000 people
+cervcanc = 2018 number of deaths from cervical cancer per 100,000 people
